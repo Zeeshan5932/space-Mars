@@ -60,7 +60,7 @@
 </a>
 
     </td>
-</tr>
+
 <tr>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Emma Patel"/><br>

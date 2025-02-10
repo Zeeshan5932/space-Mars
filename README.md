@@ -59,7 +59,7 @@
     <img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px">
 </a>
 
-    </td>
+    
 
 <tr>
     <td align="center">

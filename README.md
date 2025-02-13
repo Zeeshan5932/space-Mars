@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
     <img src="https://marsapp.streamlit.app/~/+/media/e509f093cad005e2916adb243432aa43f9c144835559d3ffdc16b6cf.gif" 
          width="100%" 
          alt="Mars Animation Banner"/>
@@ -123,4 +123,112 @@ streamlit run app.py
 <h2>Made with ❤️ by the Humans to Mars Team</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div> -->
+
+<div align="center">
+    <img src="https://marsapp.streamlit.app/~/+/media/e509f093cad005e2916adb243432aa43f9c144835559d3ffdc16b6cf.gif" 
+         width="100%" 
+         alt="Mars Animation Banner"/>
+
+# 🚀 Humans to Mars
+### Your Gateway to the Red Planet
+
+[![GitHub Stars](https://img.shields.io/github/stars/Humam-hub/Mars?style=for-the-badge&logo=github&color=red&logoColor=white)](https://github.com/Zeeshan5932/space-Mars)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Zeeshan5932/space-Mars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeeshan-younas-919a09253/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+
+<img src="https://cdn.britannica.com/01/81401-050-8EB87030/planets-solar-system-Pluto-montage-images-Sun.jpg" width="400"/>
 </div>
+
+---
+
+## 🌟 Revolutionary Features
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="100%"/>
+<h3>🤖 AI-Powered Mars Expert</h3>
+</td>
+<td width="50%" align="center">
+<img src="https://cdn.dribbble.com/users/2008861/screenshots/15526330/media/75d00bc57f50dd8f9cff457430a4f557.gif" width="100%"/>
+<h3>📊 Live Mars Data</h3>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9c7aheZxls" title="Mars Landing" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
+
+## 👥 Meet Our Stellar Team
+
+<div align="center">
+<table>
+<tr>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Muhammad Humam"/><br>
+        <b>Muhammad Ibrahim Qasmi</b><br>
+        <sub>Project Lead</sub><br>
+        <a href="https://github.com/Humam-hub"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/muhammad-humam-tahir-470267178/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🚀 Core Features
+
+<ul>
+<li>🤖 <strong>AI Expert Chat</strong>: Real-time conversations powered by advanced LLM technology.</li>
+<li>🛸 <strong>NASA Integration</strong>: Live Mars data, mission updates, and scientific discoveries.</li>
+<li>🎮 <strong>Interactive Quiz</strong>: Test your space knowledge with fun challenges.</li>
+<li>📊 <strong>Live Weather</strong>: Stay updated with real-time Mars atmospheric conditions.</li>
+<li>🖼️ <strong>Rover Gallery</strong>: Explore daily images captured by Mars rovers.</li>
+<li>📱 <strong>Responsive Design</strong>: Enjoy a seamless experience on any device.</li>
+</ul>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/Humam-hub/Mars.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch the application
+streamlit run app.py
+```
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br><br>
+
+<h2>Made with ❤️ by the Humans to Mars Team</h2>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+

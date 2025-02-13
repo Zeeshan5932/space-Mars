@@ -52,10 +52,15 @@
         <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="David Rodriguez"/><br>
         <b>Zeeshan Younus</b><br>
         <sub>Frontend Expert</sub><br>
-        <a href="https://github.com/davidr"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
-        <a href="https://linkedin.com/in/davidr"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
-    </td>
-</tr>
+        <a href="https://github.com/Zeeshan5932/space-Mars" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px">
+</a>
+<a href="https://www.linkedin.com/in/zeeshan-younas-919a09253/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px">
+</a>
+
+    
+
 <tr>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Emma Patel"/><br>
